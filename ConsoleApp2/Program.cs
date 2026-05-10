@@ -9,7 +9,7 @@ namespace ConsoleApp2
     {
         private static void Main(string[] args)
         {
-            // Apartado 2.1 a) Crear lista e insertar tres libros
+            // Apartado 2.1 a) Crear lista e insertare tres libros
             var lista = new List<Libro>();
             lista.Add(new Libro("1984", "George Orwell", 1949, true));
             lista.Add(new Libro("Rebelión en la granja", "George Orwell", 1945, false));
